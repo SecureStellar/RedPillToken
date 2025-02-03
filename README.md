@@ -1,4 +1,8 @@
-Overview
+# RedPillToken - A Smart Contract CTF Challenge
+
+
+
+# Overview
 RedPillToken is a deliberately vulnerable Soroban smart contract designed as a CTF challenge. Just like Neo had to choose the red pill to see the truth about the Matrix, this contract challenges you to discover and exploit its vulnerability.
 
 🔍 Challenge
