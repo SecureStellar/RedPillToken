@@ -21,6 +21,7 @@ A curious mind ready to dive deep into the Matrix...
 
 ⚠️ Disclaimer
 This smart contract contains intentional vulnerabilities and is created for educational purposes only. Do not use in production.
+
 📝 Author
 Hans
 
